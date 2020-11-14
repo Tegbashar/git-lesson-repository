@@ -1,6 +1,8 @@
 package com.greenfoxacademy;
-import java.util.Scanner;
 import java.util.Random;
+import java.util.Scanner;
+
+
 
 public class Main {
 
@@ -25,7 +27,7 @@ public class Main {
         int atlag=sum/pieces;
 //        int sumTime=start-stop;
         System.out.println("átlaguk: " + atlag);
-//        System.out.println("kiszámítás időtertama: " + sumTime);
+//        System.out.println("kiszámítás időtartama: " + sumTime);
 
 
     }
